@@ -49,18 +49,15 @@ Built with modern technologies to deliver fast performance, a beautiful UI, and 
 
 ## 📸 Screenshots
 
-> You can add screenshots by placing them in a `/screenshots` folder and linking them here:
-
-```markdown
 ### 🛍️ Storefront
 
 ![Home Page](./screenshots/home.png)
-![Product View](./screenshots/product.png)
 
 ### 🧑‍💼 Admin Panel
 
 ![Dashboard](./screenshots/admin-dashboard.png)
 ![Product Management](./screenshots/admin-products.png)
+![Order Management](./screenshots/admin-orders.png)
 
 ## 💻 Getting Started
 
@@ -69,8 +66,8 @@ Follow these steps to set up and run the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/forever-ecommerce.git
-cd forever-ecommerce
+git clone https://github.com/OshanaKavishan/ecommerce-website.git
+cd ecommerce-website
 ```
 ### 2️⃣ Install Dependencies
 
@@ -97,3 +94,12 @@ Create .env files inside both the client and backend folders with your own API k
 - 🧑‍💼 Admin: http://localhost:5173/admin
 
 - ⚙️ Backend API: http://localhost:5000
+
+## 🤝 Let's Work Together
+
+I'm Oshana Kavishan — passionate about building modern web and mobile applications.  
+If you're interested in working together or just want to connect, feel free to reach out!
+
+- 📧 Email: kavishansilva@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/oshana-kavishan-9ab10b23b](https://www.linkedin.com/in/oshana-kavishan-9ab10b23b)  
+- 💻 GitHub: [github.com/OshanaKavishan](https://github.com/OshanaKavishan)

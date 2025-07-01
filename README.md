@@ -95,6 +95,9 @@ Create .env files inside both the client and backend folders with your own API k
 
 - ⚙️ Backend API: http://localhost:5000
 
+## 🤝 Contributions
+Contributions, issues, and feature requests are welcome! Feel free to connect. ✨
+
 ## 🤝 Let's Work Together
 
 I'm Oshana Kavishan — passionate about building modern web and mobile applications.  

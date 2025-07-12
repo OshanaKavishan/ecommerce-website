@@ -51,7 +51,15 @@ Built with modern technologies to deliver fast performance, a beautiful UI, and 
 
 ### 🛍️ Storefront
 
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/homenew.png)
+
+### 🛍️ Collection
+
+![Collection Page](./screenshots/collection.png)
+### 🛍️ About
+![About Page](./screenshots/about.png)
+### 🛍️ Contact
+![Contact Page](./screenshots/contact.png)
 
 ### 🧑‍💼 Admin Panel
 
